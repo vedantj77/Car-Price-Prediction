@@ -35,6 +35,7 @@ This is a simple and intuitive machine learning web application built using **St
 bash
 git clone https://github.com/vedantj77/Car-Price-Prediction.git
 cd Car-Price-Prediction
+
 2️⃣ Create a Virtual Environment (Optional but Recommended)
 bash
 Copy
@@ -57,6 +58,7 @@ bash
 Copy
 Edit
 pip install streamlit scikit-learn pandas numpy
+
 4️⃣ Run the App
 bash
 Copy
