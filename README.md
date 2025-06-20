@@ -38,8 +38,7 @@ cd Car-Price-Prediction
 
 ## 2️⃣ Create a Virtual Environment (Optional but Recommended)
 bash
-Copy
-Edit
+
 ### Windows
 python -m venv venv
 venv\Scripts\activate
@@ -51,27 +50,21 @@ source venv/bin/activate
 
 ## 3️⃣ Install Dependencies
 bash
-Copy
-Edit
 pip install -r requirements.txt
 If requirements.txt is missing, use:
 
 bash
-Copy
-Edit
 pip install streamlit scikit-learn pandas numpy
 
 ## 4️⃣ Run the App
 bash
-Copy
-Edit
+
 streamlit run app.py
 The app will open in your browser at http://localhost:8501.
 
 📁 Project Structure
 bash
-Copy
-Edit
+
 Car-Price-Prediction/
 │
 ├── app.py                  # Streamlit app file
