@@ -30,13 +30,13 @@ This is a simple and intuitive machine learning web application built using **St
 
 ## 🛠️ How to Run This Project Locally
 
-### 1️⃣ Clone the Repository
+# 1️⃣ Clone the Repository
 
 bash
 git clone https://github.com/vedantj77/Car-Price-Prediction.git
 cd Car-Price-Prediction
 
-2️⃣ Create a Virtual Environment (Optional but Recommended)
+# 2️⃣ Create a Virtual Environment (Optional but Recommended)
 bash
 Copy
 Edit
@@ -47,7 +47,9 @@ venv\Scripts\activate
 # macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
-3️⃣ Install Dependencies
+
+
+# 3️⃣ Install Dependencies
 bash
 Copy
 Edit
@@ -59,7 +61,7 @@ Copy
 Edit
 pip install streamlit scikit-learn pandas numpy
 
-4️⃣ Run the App
+# 4️⃣ Run the App
 bash
 Copy
 Edit
